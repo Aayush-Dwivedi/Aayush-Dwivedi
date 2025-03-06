@@ -1,5 +1,5 @@
-# Hi I am Aayush:
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpixel-art-cityscape-wallpaper--748160556869946767%2F&psig=AOvVaw39jS_SULZaxdJ490hjL7Xg&ust=1741355825849000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID974vO9YsDFQAAAAAdAAAAABAE">
+# Hi I am Aayush 👋
+<img src="https://github.com/Aayush-Dwivedi/Aayush-Dwivedi/blob/main/Awesome%208%20Bit%20Gif%20Wallpapers%20-%20WallpaperAccess.gif">
 I am a developer from India with a passion for AI/ML and full-stack development. With experience in graphic design, digital art, and sketching, I blend creativity with technology to build innovative solutions. Constantly exploring new ideas, I strive to create impactful and visually appealing digital experiences.<br>
 
 

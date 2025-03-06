@@ -1,9 +1,10 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh1ZnpybzI1OGwxN3BtOW5jNmx2bTcya2k4emdmeHJseWVqY3h2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif">
 <h1 align="center">Hi 👋, I'm Aayush Raj</h1>
 <h3 align="center">I am a developer from India with a passion for AI/ML and full-stack development. With experience in graphic design, digital art, and sketching, I blend creativity with technology to build innovative solutions. Constantly exploring new ideas, I strive to create impactful and visually appealing digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-dwivedi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-dwivedi" alt="aayush-dwivedi" /></a> </p>
+
 
 - 📫 How to reach me **aayushdwivedi8834@gmail.com**
 

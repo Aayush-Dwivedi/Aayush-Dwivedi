@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh1ZnpybzI1OGwxN3BtOW5jNmx2bTcya2k4emdmeHJseWVqY3h2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="300" height="200">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh1ZnpybzI1OGwxN3BtOW5jNmx2bTcya2k4emdmeHJseWVqY3h2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif"  height="600">
 <h1 align="center">Hi 👋, I'm Aayush Raj</h1>
 <h3 align="center">I am a developer from India with a passion for AI/ML and full-stack development. With experience in graphic design, digital art, and sketching, I blend creativity with technology to build innovative solutions. Constantly exploring new ideas, I strive to create impactful and visually appealing digital experiences.</h3>
 

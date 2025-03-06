@@ -1,5 +1,5 @@
 # Hi I am Aayush 👋
-<img src="https://github.com/Aayush-Dwivedi/Aayush-Dwivedi/blob/main/Awesome%208%20Bit%20Gif%20Wallpapers%20-%20WallpaperAccess.gif" width="2000" height="500">
+<img src="https://github.com/Aayush-Dwivedi/Aayush-Dwivedi/blob/main/Awesome%208%20Bit%20Gif%20Wallpapers%20-%20WallpaperAccess%20(1).gif?raw=true">
 I am a developer from India with a passion for AI/ML and full-stack development. With experience in graphic design, digital art, and sketching, I blend creativity with technology to build innovative solutions. Constantly exploring new ideas, I strive to create impactful and visually appealing digital experiences.<br>
 
 
